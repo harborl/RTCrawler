@@ -1,6 +1,6 @@
 ### Abstract
 It is a domain oriented real time `web crawler` that is different than the common `web crawler`.
-The later, typically, is link oriented, which crawls all of links and its content in a breath first way.
+The later, typically, is link oriented, which crawls all of links and its content in a breadth first way.
 However, a domain oriented `web crawler` has bellow properties:
  - Real time: it provides a real time method to crawl content.
  - It's naturally 'Awaitable' in that it always has the definite job limitation.
